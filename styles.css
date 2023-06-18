@@ -328,16 +328,16 @@ input:focus {
     }
 
     .sign-up-container {
-        gap: 30px;
+        gap: 20%;
     }
 
     #messi-photo {
         position: absolute;
         z-index: -1;
-        top: 250px;
-        left: -30px;
+        top: 60%;
+        left: -5%;
         width: 50%;
-        height: 50vh;
+        height: 25%;
         overflow: hidden;
         clip-path: circle(40% at center);
     }
@@ -358,7 +358,7 @@ input:focus {
          line-height: 1.15;
      }
      .text {
-        margin-top: 20px;
+        margin-top: 25%;
         font: bold 20px normal;
         color: black;
         font-family: 'Helvetica';
@@ -373,7 +373,7 @@ input:focus {
     .form-box {
         background-color: whitesmoke;
         width: 55vw;
-        height: 180px;
+        height: 30%;
         box-shadow: 0 12px 10px rgba(0, 0, 0, 0.2);
         border-radius: 6px;
     }
@@ -417,14 +417,14 @@ input:focus {
         margin: 2px 0 0;
         padding: 5px 40px;
         text-align: center;
-        width: 20%;
+        width: 40%;
       }
       .register {
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        margin-top: 0px;
+        margin-top: -40%;
         width: 30vw;
     }
 
@@ -574,3 +574,4 @@ input:focus {
     width: 90%;
    }
 }
+
